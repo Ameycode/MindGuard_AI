@@ -1,0 +1,8 @@
+{
+  "name": "MindGuard AI",
+  "description": "A comprehensive, AI-powered mental wellness monitoring system using multimodal analysis to provide supportive insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
